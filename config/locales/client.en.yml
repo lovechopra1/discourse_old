@@ -679,7 +679,7 @@ en:
       reply_here: "Reply Here"
       reply: "Reply"
       cancel: "Cancel"
-      create_topic: "New Topic"
+      create_topic: "Ask Career Query"
       create_pm: "Private Message"
       title: "Or press Ctrl+Enter"
 
@@ -835,11 +835,11 @@ en:
 
     topic:
       filter_to: "{{post_count}} posts in topic"
-      create: 'New Topic'
+      create: 'Ask Career Query'
       create_long: 'Create a new Topic'
       private_message: 'Start a private message'
       list: 'Topics'
-      new: 'new topic'
+      new: 'ask career query'
       unread: 'unread'
       new_topics:
         one: '1 new topic'
