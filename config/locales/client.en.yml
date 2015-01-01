@@ -252,7 +252,7 @@ en:
       "13": "Inbox"
 
     categories:
-      all: "all categories"
+      all: "all career sectors"
       all_subcategories: "all"
       no_subcategory: "none"
       category: "Category"
@@ -1436,9 +1436,9 @@ en:
         title: "Read"
         help: "topics you've read, in the order that you last read them"
       categories:
-        title: "Categories"
+        title: "Career Sectors"
         title_in: "Category - {{categoryName}}"
-        help: "all topics grouped by category"
+        help: "all questions grouped by career sectors"
       unread:
         title:
           zero: "Unread"
